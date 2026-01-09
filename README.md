@@ -66,7 +66,7 @@ For users in China, you can [click here](https://www.codewithgpu.com/i/RVC-Boss/
 | Python 3.11    | PyTorch 2.7.0    | Apple silicon |
 | Python 3.9     | PyTorch 2.2.2    | CPU           |
 
-### Windows
+### Windows1
 
 If you are a Windows user (tested with win>=10), you can [download the integrated package](https://huggingface.co/lj1995/GPT-SoVITS-windows-package/resolve/main/GPT-SoVITS-v3lora-20250228.7z?download=true) and double-click on _go-webui.bat_ to start GPT-SoVITS-WebUI.
 
